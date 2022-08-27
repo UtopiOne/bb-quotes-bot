@@ -1,1 +1,0 @@
-# bb-quotes-bot
