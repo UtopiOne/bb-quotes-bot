@@ -7,7 +7,6 @@ from Quote_summon import SummonQuote
 sq = SummonQuote()
 config = ConfigParser()
 botname = "BB-Quotes-Bot"
-filename = 'BB-Quotes-Bot\Data/response_data.json'
 
 config.read('BB-Quotes-Bot\Data\BotData.ini')
 
